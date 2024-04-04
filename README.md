@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaylorVaughn
 - 👀 I’m interested in video games, books, music, and art!
-- 🌱 I’m currently learning how to create game art, develop games using Unity, and learning C++ so I can try writing games from scratch.
+- 🌱 I’m currently learning how to create game art, develop games using Unreal, and learning C++ so I can try writing games from scratch.
 - 💞️ I’m looking to collaborate on games. I'm a decent coder, an amateur artist, and terrific author.
 - 📫 How to reach me: vaughntdev@gmail.com
 
